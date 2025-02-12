@@ -7,6 +7,6 @@
 <title>Introduction page</title>
 </head>
 <body>
-<h1>Hello word 1</h1>
+<h1>Introduction page</h1>
 </body>
 </html>
